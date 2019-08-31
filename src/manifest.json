@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Substratum Proxy Toggle",
-    "description": "Browser extension to route your browser's internet traffic through your running SubstratumNode with a click of a button. Removes the need for port-forwarding and DNS subverting!",
+    "description": "Route your internet traffic through SubstratumNode with a click of a button. No need to port forward or subvert your DNS!",
     "version": "0.0.1",
     "homepage_url": "https://subnodes.io",
     "background": {
