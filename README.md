@@ -11,3 +11,10 @@
 * npm install
 * webpack --mode production
 * dist/
+
+### Contribute 
+**Pull requests** are welcomed and encouraged. 
+
+**Issues** are important, so please leave a detailed issue with browser type, error message, screenshots. 
+
+**Feature requests** can be added to the issues section as well, or tweet at us [@SubNodes_io](https://twitter.com/SubNodes_io). 
