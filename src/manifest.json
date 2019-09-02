@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Substratum Proxy Toggle",
     "description": "Route your internet traffic through SubstratumNode with a click of a button. No need to port forward or subvert your DNS!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage_url": "https://subnodes.io",
     "background": {
       "persistent": true,
